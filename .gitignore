@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vs/
+
+# mypy
+.mypy_cache/
+
+# Ruff stuff:
+.ruff_cache/
+
+# Other folders
+tmp/
+result/
