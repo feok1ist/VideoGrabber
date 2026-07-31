@@ -24,19 +24,11 @@
 ```bash
 # 1. Клонировать репозиторий
 git clone https://github.com/feok1ist/VideoGrabber.git
-cd VideoGrabber
 
-# 2. Установить зависимости
-uv sync
-
-# 3. Запустить start.bat
+# 2. Запустить start.bat
 
 # Готово — открыть http://127.0.0.1:5000
 ```
-
-> **FFmpeg** нужен для конвертации аудио (MP3/FLAC) и встраивания обложек.
-> Скачай с [ffmpeg.org](https://ffmpeg.org/download.html) и добавь `ffmpeg` в `PATH`, либо положи `ffmpeg.exe` в папку проекта.
-
 ## 🛠 Технологии
 
 *   **Бэкенд:** Python, Flask
