@@ -1,5 +1,7 @@
 # VideoGrabber
 
+<img width="1920" height="989" alt="изображение" src="https://github.com/user-attachments/assets/24e18a1d-7a81-4d62-970d-59ef4272d1dc" />
+
 ## 📖 О проекте
 
 **VideoGrabber** — это веб-интерфейс (обёртка над yt-dlp) для скачивания видео и аудио с YouTube, Vimeo и ещё многих сайтов.
@@ -34,6 +36,6 @@ git clone https://github.com/feok1ist/VideoGrabber.git
 *   **Загрузчик:** yt-dlp
 *   **Обработка:** FFmpeg (конвертация аудио, встраивание обложек)
 
-## Почему VideoGrabber?
+## ❓ Почему VideoGrabber?
 *   **Анонимно** - сервер разворачиваеться локально и только под вас, все скаченные файлы доступны только вам.
 *	**Бесплатно** - абсолютно бесплатно и без лимитов.
