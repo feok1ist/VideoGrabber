@@ -57,6 +57,21 @@
                 </div>
             </div>
 
+            <details class="advanced">
+                <summary class="advanced__summary">Advanced</summary>
+                <div class="advanced__body">
+                    <label class="advanced__label" for="proxy-input">Proxy (optional)</label>
+                    <input
+                        id="proxy-input"
+                        name="proxy"
+                        class="advanced__input"
+                        type="text"
+                        placeholder="http://user:pass@host:port"
+                        value="{{ proxy or '' }}"
+                    >
+                </div>
+            </details>
+
             {% if error %}
             <div class="error-msg visible">{{ error }}</div>
             {% endif %}

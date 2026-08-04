@@ -19,3 +19,4 @@ venv/
 # Other folders
 tmp/
 result/
+config.json
