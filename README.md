@@ -6,7 +6,8 @@
 [![uv](https://img.shields.io/badge/uv-0.11.24-8B5CF6)](https://docs.astral.sh/uv/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-<img width="1920" height="989" alt="изображение" src="https://github.com/user-attachments/assets/24e18a1d-7a81-4d62-970d-59ef4272d1dc" />
+<img width="1920" height="994" alt="изображение" src="https://github.com/user-attachments/assets/48efc582-fd71-4be9-af37-28e70ace2c1e" />
+
 
 ## 📖 О проекте
 
