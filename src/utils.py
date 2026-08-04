@@ -41,10 +41,8 @@ def download_video(url, ydl_opts):
         ydl.download([url])
 
 
-def generation_ydl_opts(file_path, format_file: str, quality: str):
-    base = {
-        "outtmpl": f"{str(file_path)}/%(title)s.%(ext)s",
-    }
+def generation_ydl_opts(file_path, format_file: str, quality: str, proxy: str):
+    base = {"outtmpl": f"{str(file_path)}/%(title)s.%(ext)s", "proxy": proxy}
 
     formats = {
         "mp4": {
